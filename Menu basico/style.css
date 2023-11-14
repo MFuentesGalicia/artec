@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+}
+
+a{
+    color: white;
+}
+
+header{
+    display: flex;
+    background-color: #14161a;
+}
